@@ -1,1 +1,1 @@
-# Elevator_task_8
+I created an interactive dashboard using the Superstore_Sales dataset to visualize and analyze key business metrics. Multiple visuals were developed to capture different dimensions of the data: a line chart shows monthly sales trends, a bar chart compares sales across regions and categories, and donut charts highlight the distribution of sales and profit by category.
