@@ -1,0 +1,14 @@
+Insights of Visualization of Superstore Sales
+
+1)Money Sales Trend (Top right- Line chart)
+Sales steadily increased over the year with notable peaks in June, October, and December indicating seasonal variations.
+
+2)Sales by Region and Category (Horizontal Bar Chart)
+The Central Region dominates in terms of sales especially in the Technology category.
+
+3) Donut chart for Sales and Profit
+Technology contributes the most profit followed by Office Supplies, Furniture.
+Technology not only brings in the most sales but also generates the highest profit margin.
+
+4)Sales by Sub-Category (Tree- Map)
+Phones, Chairs, Copiers, Bookcases, and Storage are the top-performing sub-categories.
